@@ -8,10 +8,11 @@
 ## Helm
 
 ## Home Assistant
-### Python Scripts
-+ [Auth RADIUS](https://github.com/Losenmann/auth-radius)
-### Dashboard
-+ [Washing Machine](https://github.com/Losenmann/ha-washing-machine)
+  ### Python Scripts
+  + [Auth RADIUS](https://github.com/Losenmann/auth-radius)
+
+  ### Dashboard
+  + [Washing Machine](https://github.com/Losenmann/ha-washing-machine)
 
 ## MikroTik
 + [Bypass](https://github.com/Losenmann/Bypass)
