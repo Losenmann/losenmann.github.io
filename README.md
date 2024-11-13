@@ -10,6 +10,7 @@
 ## Home Assistant
 ### Python Scripts
 + [Auth RADIUS](https://github.com/Losenmann/auth-radius)
++ [Brands Local](https://github.com/Losenmann/ha-brands-local)
 
 ### Dashboard
 + [Washing Machine](https://github.com/Losenmann/ha-washing-machine)
