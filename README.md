@@ -1,22 +1,19 @@
-# Repo
-## [GitHub](https://github.com/Losenmann)
+# [GitHub](https://github.com/Losenmann)
 + [IPTV-Toolkit](https://github.com/Losenmann/iptv-toolkit)
 + [Онлайн Дозор](https://github.com/Losenmann/online-dozor-cam)
++ [Bypass](https://github.com/Losenmann/Bypass)
 
-## [Docker Hub](https://hub.docker.com/u/losenmann)
+# [Docker Hub](https://hub.docker.com/u/losenmann)
 
-## Helm
+# Helm
 
-## Home Assistant
-### Python Scripts
+# Home Assistant
+## Python Scripts
 + [Auth RADIUS](https://github.com/Losenmann/auth-radius)
 + [Brands Local](https://github.com/Losenmann/ha-brands-local)
 
-### Dashboard
+## Dashboard
 + [Washing Machine](https://github.com/Losenmann/ha-washing-machine)
-
-## MikroTik
-+ [Bypass](https://github.com/Losenmann/Bypass)
 
 # About Me
 Cheerful enthusiast 😀
