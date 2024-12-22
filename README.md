@@ -44,7 +44,14 @@ Developer and DevOps engineer
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </picture>
-  </a> 
+  </a>
+  <a href="https://hub.docker.com/u/losenmann" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="pages/src/image/docker-colored.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="pages/src/image/docker-colored.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </picture>
+  </a>
   <a href="http://www.instagram.com/losenmann" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
