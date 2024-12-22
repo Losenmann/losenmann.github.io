@@ -26,12 +26,13 @@ Developer and DevOps engineer
 <a href="https://mikrotik.com/" target="_blank" rel="noreferrer"><img src="pages/src/image/mikrotik-colored.svg" width="36" height="36" alt="MikroTik" /></a>
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="pages/src/image/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="pages/src/image/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="pages/src/image/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="pages/src/image/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
+<a href="https://www.zabbix.com/" target="_blank" rel="noreferrer"><img src="pages/src/image/zabbix-colored.svg" width="36" height="36" alt="Zabbix" /></a>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="pages/src/image/grafana-colored.svg" width="36" height="36" alt="Grafana" /></a>
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="pages/src/image/ansible-colored.svg" width="36" height="36" alt="Ansible" /></a>
 <a href="https://traefik.io/" target="_blank" rel="noreferrer"><img src="pages/src/image/traefik-colored.svg" width="36" height="36" alt="Traefik" /></a>
 <a href="https://nginx.org/" target="_blank" rel="noreferrer"><img src="pages/src/image/nginx-colored.svg" width="36" height="36" alt="Nginx" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="pages/src/image/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="pages/src/image/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
 <a href="https://www.home-assistant.io/" target="_blank" rel="noreferrer"><img src="pages/src/image/homeassistant-colored.svg" width="36" height="36" alt="Home Assistant" /></a>
 </p>
 
