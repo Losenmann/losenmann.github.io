@@ -32,6 +32,7 @@ Developer and DevOps engineer
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="pages/src/image/ansible-colored.svg" width="36" height="36" alt="Ansible" /></a>
 <a href="https://traefik.io/" target="_blank" rel="noreferrer"><img src="pages/src/image/traefik-colored.svg" width="36" height="36" alt="Traefik" /></a>
 <a href="https://nginx.org/" target="_blank" rel="noreferrer"><img src="pages/src/image/nginx-colored.svg" width="36" height="36" alt="Nginx" /></a>
+<a href="https://www.home-assistant.io/" target="_blank" rel="noreferrer"><img src="pages/src/image/homeassistant-colored.svg" width="36" height="36" alt="Home Assistant" /></a>
 </p>
 
 ### Socials
