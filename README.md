@@ -23,6 +23,7 @@ Developer and DevOps engineer
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="pages/src/image/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" /></a>
 <a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="pages/src/image/helm-colored.svg" width="36" height="36" alt="Helm" /></a>
 <a href="https://goharbor.io/" target="_blank" rel="noreferrer"><img src="pages/src/image/harbor-colored.svg" width="36" height="36" alt="Harbor" /></a>
+<a href="https://netboxlabs.com/" target="_blank" rel="noreferrer"><img src="pages/src/image/netbox-colored.svg" width="36" height="36" alt="Netbox" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="pages/src/image/gnubash-colored.svg" width="36" height="36" alt="Bash" /></a>
 <a href="https://mikrotik.com/" target="_blank" rel="noreferrer"><img src="pages/src/image/mikrotik-colored.svg" width="36" height="36" alt="MikroTik" /></a>
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="pages/src/image/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
