@@ -36,8 +36,7 @@ Developer and DevOps engineer
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="pages/src/image/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="pages/src/image/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
 <a href="https://www.home-assistant.io/" target="_blank" rel="noreferrer"><img src="pages/src/image/homeassistant-colored.svg" width="36" height="36" alt="Home Assistant" /></a>
-</p>
-<a href="https://easyeda.com/" target="_blank" rel="noreferrer"><img src="pages/src/image/easyeda-colored.svg" width="36" height="36" alt="EasyEDA" /></a>
+<a href="https://easyeda.com/" target="_blank" rel="noreferrer"><img src="pages/src/image/easyeda-colored.svg" width="36" height="36" alt="EasyEDA" /></a></p>
 
 ### Socials
 <p align="left">
