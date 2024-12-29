@@ -38,7 +38,6 @@ Developer and DevOps engineer
 <a href="https://www.home-assistant.io/" target="_blank" rel="noreferrer"><img src="pages/src/image/homeassistant-colored.svg" width="36" height="36" alt="Home Assistant" /></a>
 </p>
 <a href="https://easyeda.com/" target="_blank" rel="noreferrer"><img src="pages/src/image/easyeda-colored.svg" width="36" height="36" alt="EasyEDA" /></a>
-</p>
 
 ### Socials
 <p align="left">
