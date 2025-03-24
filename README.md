@@ -12,8 +12,14 @@ Hi ![](pages/src/image/hello.gif)My name is Maxim
 
 ### Project
 * [IPTV Toolkit](https://losenmann.github.io/iptv-toolkit/)
-* [Bypass](https://losenmann.github.io/Bypass/)
-* [tunedAdm](https://losenmann.github.io/tunedAdm/)
+* [Bypass](https://github.com/Losenmann/Bypass)
+* [tunedAdm](https://github.com/Losenmann/tunedAdm)
+* [Онлайн Дозор](https://github.com/Losenmann/online-dozor-cam)
+
+### Project Home Assistant
+* [Auth AAA](https://github.com/Losenmann/hacs-auth-aaa)
+* [Card Washing Machine](https://github.com/Losenmann/hacs-washing-machine)
+* [Integration Yandex Music](https://github.com/Losenmann/hacs-yandex-music)
 
 ### Skills
 <p align="left">
